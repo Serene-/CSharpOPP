@@ -1,0 +1,15 @@
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Users\Stefka\source\repos\PersonInfo\Telephony\obj\Debug\net6.0\ref\Telephony.dll
