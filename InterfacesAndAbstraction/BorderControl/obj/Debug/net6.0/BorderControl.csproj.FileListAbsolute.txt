@@ -1,0 +1,15 @@
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\Stefka\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
