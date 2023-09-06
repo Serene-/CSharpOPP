@@ -1,0 +1,15 @@
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\Stefka\source\repos\Polymorphism\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
